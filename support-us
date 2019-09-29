@@ -1,0 +1,73 @@
+<html>
+  <head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127301730-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-127301730-1');
+    </script>
+    <title>Ottawa Brahms Choir - Support Us</title>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
+<meta name="description" content="Home of the Ottawa Brahms Choir">
+<meta name="keywords" content="Ottawa,Brahms,choir,German,no audition,community,singers,choral,music,musical,event,group,meetup">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+
+  <body>
+    <div id="main">
+      <header>
+        <h1><a href="/"><img id="logo" src="logo.png" title="Ottawa Brahms Choir" alt="Ottawa
+        Brahms Choir"></a></h1>
+        <nav>
+        <ul id="nav">
+          <li><a href="/">Our Home</a></li>
+          <li><a href="https://www.eventbrite.ca/e/rebirth-tickets-55021756555">Buy Tickets</a></li>
+          <!-- <li><a href="#">Plan Your Visit</a></li> -->
+          <li><a href="https://www.youtube.com/channel/UCZcU3Hbl65oBktcaeFE87Tw">Watch &amp; Listen</a></li>
+          <li><a href="/join-us.html">Sing With Us</a></li>
+          <li><a href="/about.html">About OB Choir</a></li>
+          <li><a href="/support-us">Support Us</></li>
+        </ul>
+        </nav>
+      </header>
+
+
+      <div id="hero" class="hero">
+        <h2>Support us</h2>
+      </div>
+      <div class="content">
+        <span class="wide-copy">
+        <section>
+<h2 id="history">History</h2>
+<p>The Ottawa Brahms Choir is a not-for-profit community organization. We keep our ticket prices and choir fees low, so as not to be a barrier to those with limited resources. The choir works hard to offer those in the Ottawa and Gatineau area the opportunity to sing beautiful classical music without having to audition or have a classical music background--we believe that making music should be available for all.</p>
+<p>To support the Ottawa Brahms Choir, you can make a donation, advertise your local business or program in our Concert program by sponsoring us, or join our mailing list to stay up to date with what is going on with the choir.</p>
+<p>Funds are used to pay our conductor and pianist’s stipends, hall rental, musical scores, printing of programs, and payments to instrumentalists and soloists. Please note that donations are not tax deductible.</p>
+</section>
+<section>
+<h2 id="donate-or-advertise">Donate or Advertise</h2>
+<p>To donate or advertise, <a href=mailto:BrahmsChoirOttawa@gmail.com>Contact us!</a> We accept cash, cheque, and etransfer. For sponsors, a donation of $100 or more will give you a prominent display ad, $50 will give you space for a business card and $25 will list you as a supporter. Donations of $50 or more will be acknowledged on our website.</p>
+</section>
+<section>
+<h2 id="sign-up">Join our Mailing List</h2>
+<p>Send a note to <a href=mailto:BrahmsChoirOttawa@gmail.com?subject="MailingList"> our email </a> with the subject line “MailingList”. 
+</section>
+        </span>
+      </div>
+
+      <footer>
+        <div>
+          <h4>Connect With Us</h4>
+          <a href="http://facebook.com/ottawabrahmschoir/">
+            <img src="fb.png" alt="Facebook">
+          </a>
+          <a href="https://www.youtube.com/channel/UCZcU3Hbl65oBktcaeFE87Tw/">
+            <img src="yt.png" alt="YouTube">
+          </a>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
